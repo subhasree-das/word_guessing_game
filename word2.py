@@ -27,7 +27,6 @@ print("you have", steps, "chances!")
 
 
 ran = random.choice(words)
-correct = ran
 
 guess = str(input("Enter a word> "))
 count = 1
